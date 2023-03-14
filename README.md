@@ -3,7 +3,7 @@
 This is a web application built using MySQL, PHP, HTML, and CSS,Python Streamlit, where users can rent physical copies of video games and admins can manage the available games and perform CRUD operations. Part of the the admin dashboard is built using Streamlit.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/83999960/225107199-42cb809b-8801-4bb8-a20a-308e53b1d489.png)
+![image](https://user-images.githubusercontent.com/83999960/225119207-e767bdef-982f-4d29-919a-90c5869865e4.png)
 ![image](https://user-images.githubusercontent.com/83999960/225107349-b2f16f2d-6656-4f65-9632-aae80a5ca808.png)
 ![image](https://user-images.githubusercontent.com/83999960/225107421-815dedb6-9f93-4320-ade6-833fc396744e.png)
 ![image](https://user-images.githubusercontent.com/83999960/225107466-149c6388-65eb-447c-b203-ba5dd79d9c1a.png)
